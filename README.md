@@ -1,1 +1,1 @@
-# Deep_Learning_based_Schizophrenia_Detection_using_EEG_signals
+The aim of the project is to detect **Schizophrenia** using Deep Learning algorithms. A novel parallel branch processing network was implemented to extract the most important features from the EEG signal and classify the mental disorder effectively.
